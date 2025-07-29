@@ -1,0 +1,30 @@
+@media (max-width: 300px) {
+    /* CSS rules here will apply only when the viewport width is 600px or less */
+    .carticon {
+        margin-top: -40px;
+    }
+  }
+@media (max-width: 500px) {
+    /* CSS rules here will apply only when the viewport width is 600px or less */
+    .carticon {
+        margin-top: -30px;
+    }
+  }
+  .modelbtn input:checked + label {
+    background-color: #13b7ca;
+    color: white;
+    border: 1px solid rgb(0, 0, 0);
+    font-family: Helvetica;
+  }
+  .modelbtn  input+label  {
+    margin-top: 20px;
+    width: 140px;
+    height: 72px;
+    background-color:#129EAD;
+    color: rgb(255, 243, 243);
+    border: 1px solid rgb(94, 92, 91);
+    font-family: Helvetica;
+  }
+  #search-container {
+    scroll-margin-top: 60px; /* Adjust based on the height of your navbar */
+}

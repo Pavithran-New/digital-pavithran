@@ -1,0 +1,808 @@
+[
+    
+        {
+            "id": 1,
+            "type": "Mens",
+            "image": "Menswear/1.jpeg",
+            "name": "Handcrafted Ikat Cotton Shirt",
+            "price": "1,149.00",
+            "inStock": true,
+            "sku": "UTT65219250",
+            "salientFeatures": {
+                "itemType": "Shirt",
+                "size": "S-XXL",
+                "dimension": "N/A",
+                "color": "Ikat Pattern",
+                "occasion": "Casual/Semi-Formal",
+                "soldBy": "Artisan Clothing"
+            },
+            "details": "Made from soft, handwoven ikat fabric, this shirt showcases traditional craftsmanship with modern design. Perfect for casual or semi-formal occasions.",
+            "specialty": "Traditional ikat fabric with modern design.",
+            "howToCare": "Machine wash cold, tumble dry low."
+        },
+        {
+            "id": 2,
+            "type": "Mens",
+            "image": "Menswear/2.jpeg",
+            "name": "Block Printed Organic Cotton Shirt",
+            "price": "2,499.00",
+            "inStock": true,
+            "sku": "UTT65219251",
+            "salientFeatures": {
+                "itemType": "Shirt",
+                "size": "S-XXL",
+                "dimension": "N/A",
+                "color": "Block Prints",
+                "occasion": "Casual",
+                "soldBy": "Eco Clothing"
+            },
+            "details": "Featuring unique, hand-block-printed patterns, this organic cotton shirt combines eco-friendly fashion with artisan craftsmanship.",
+            "specialty": "Eco-friendly with unique block prints.",
+            "howToCare": "Hand wash in cold water, air dry."
+        },
+        {
+            "id": 3,
+            "type": "Mens",
+            "image": "Menswear/3.jpeg",
+            "name": "Hand-Dyed Indigo Shirt",
+            "price": "1,699.00",
+            "inStock": true,
+            "sku": "UTT65219252",
+            "salientFeatures": {
+                "itemType": "Shirt",
+                "size": "S-XXL",
+                "dimension": "N/A",
+                "color": "Indigo",
+                "occasion": "Casual",
+                "soldBy": "Artisan Clothing"
+            },
+            "details": "This hand-dyed indigo shirt offers a timeless, artisanal touch, using natural dyes for rich, deep hues. Lightweight and breathable.",
+            "specialty": "Hand-dyed with natural indigo.",
+            "howToCare": "Hand wash separately in cold water, hang to dry."
+        },
+        {
+            "id": 4,
+            "type": "Mens",
+            "image": "Menswear/4.jpeg",
+            "name": "Embroidered Linen Shirt",
+            "price": "1,999.00",
+            "inStock": true,
+            "sku": "UTT65219253",
+            "salientFeatures": {
+                "itemType": "Shirt",
+                "size": "S-XXL",
+                "dimension": "N/A",
+                "color": "Linen",
+                "occasion": "Casual",
+                "soldBy": "Elegant Threads"
+            },
+            "details": "Expertly handcrafted with intricate embroidery, this linen shirt adds a subtle yet elegant detail to your wardrobe. Ideal for casual gatherings.",
+            "specialty": "Intricate embroidery on linen.",
+            "howToCare": "Machine wash cold, iron on low heat."
+        },
+        {
+            "id": 5,
+            "type": "Mens",
+            "image": "Menswear/5.jpeg",
+            "name": "Handloom Khadi Shirt",
+            "price": "1,249.00",
+            "inStock": true,
+            "sku": "UTT65219254",
+            "salientFeatures": {
+                "itemType": "Shirt",
+                "size": "S-XXL",
+                "dimension": "N/A",
+                "color": "Khadi",
+                "occasion": "Casual",
+                "soldBy": "Traditional Wear"
+            },
+            "details": "Made from handspun khadi fabric, this shirt celebrates traditional craftsmanship with a minimalist aesthetic. Perfect for year-round wear.",
+            "specialty": "Handspun khadi fabric.",
+            "howToCare": "Hand wash in cold water, air dry."
+        },
+        {
+            "id": 6,
+            "type": "Womens",
+            "image": "Womenswear/1.jpeg",
+            "name": "Embroidered Silk Maxi Dress",
+            "price": "4,299.00",
+            "inStock": true,
+            "sku": "UTT65219255",
+            "salientFeatures": {
+                "itemType": "Dress",
+                "size": "S-XL",
+                "dimension": "Floor Length",
+                "color": "Silk",
+                "occasion": "Formal/Special Occasion",
+                "soldBy": "Elegant Fashion"
+            },
+            "details": "Luxurious silk fabric adorned with intricate embroidery. This maxi dress offers elegance and sophistication, perfect for formal events or special occasions.",
+            "specialty": "Luxurious silk with intricate embroidery.",
+            "howToCare": "Dry clean only."
+        },
+        {
+            "id": 7,
+            "type": "Womens",
+            "image": "Womenswear/2.jpeg",
+            "name": "Handwoven Cotton Anarkali",
+            "price": "2,799.00",
+            "inStock": true,
+            "sku": "UTT65219256",
+            "salientFeatures": {
+                "itemType": "Dress",
+                "size": "S-XL",
+                "dimension": "Floor Length",
+                "color": "Cotton",
+                "occasion": "Festive",
+                "soldBy": "Traditional Wear"
+            },
+            "details": "Featuring traditional handwoven cotton with delicate details, this Anarkali dress provides a classic and graceful look for festive celebrations.",
+            "specialty": "Handwoven cotton with delicate details.",
+            "howToCare": "Hand wash in cold water, iron on low heat."
+        },
+        {
+            "id": 8,
+            "type": "Womens",
+            "image": "Womenswear/3.jpeg",
+            "name": "Block Printed Chiffon Dress",
+            "price": "1,999.00",
+            "inStock": true,
+            "sku": "UTT65219257",
+            "salientFeatures": {
+                "itemType": "Dress",
+                "size": "S-XL",
+                "dimension": "Knee Length",
+                "color": "Chiffon",
+                "occasion": "Casual/Summer",
+                "soldBy": "Trendy Styles"
+            },
+            "details": "Lightweight chiffon adorned with vibrant block prints. This dress combines comfort with striking designs, ideal for casual outings and summer events.",
+            "specialty": "Lightweight chiffon with vibrant prints.",
+            "howToCare": "Hand wash in cold water, air dry."
+        },
+        {
+            "id": 9,
+            "type": "Womens",
+            "image": "Womenswear/4.jpeg",
+            "name": "Hand-Dyed Batik Dress",
+            "price": "2,499.00",
+            "inStock": true,
+            "sku": "UTT65219258",
+            "salientFeatures": {
+                "itemType": "Dress",
+                "size": "S-XL",
+                "dimension": "Knee Length",
+                "color": "Batik",
+                "occasion": "Casual",
+                "soldBy": "Artisan Textiles"
+            },
+            "details": "Crafted using traditional batik dyeing techniques, this dress offers a unique and artistic pattern. Made from soft, breathable fabric for everyday wear.",
+            "specialty": "Traditional batik dyeing techniques.",
+            "howToCare": "Hand wash in cold water, iron on low heat."
+        },
+        {
+            "id": 10,
+            "type": "Womens",
+            "image": "Womenswear/5.jpeg",
+            "name": "Linen Shift Dress with Embroidery",
+            "price": "1,799.00",
+            "inStock": true,
+            "sku": "UTT65219259",
+            "salientFeatures": {
+                "itemType": "Dress",
+                "size": "S-XL",
+                "dimension": "Knee Length",
+                "color": "Linen",
+                "occasion": "Casual/Work",
+                "soldBy": "Elegant Essentials"
+            },
+            "details": "A versatile linen shift dress enhanced with detailed embroidery. Perfect for a relaxed yet refined look, suitable for both work and casual settings.",
+            "specialty": "Versatile linen with detailed embroidery.",
+            "howToCare": "Machine wash cold, iron on low heat."
+        },
+        {
+            "id": 11,
+            "type": "Bags",
+            "image": "BAGS/1.jpeg",
+            "name": "Handwoven Jute Tote Bag",
+            "price": "899.00",
+            "inStock": true,
+            "sku": "UTT65219260",
+            "salientFeatures": {
+                "itemType": "Tote Bag",
+                "size": "Large",
+                "dimension": "40x35 cm",
+                "color": "Jute",
+                "occasion": "Casual",
+                "soldBy": "Eco Accessories"
+            },
+            "details": "A spacious tote bag made from handwoven jute. Durable and eco-friendly, perfect for everyday use or casual outings.",
+            "specialty": "Durable and eco-friendly jute.",
+            "howToCare": "Spot clean with damp cloth."
+        },
+        {
+            "id": 12,
+            "type": "Bags",
+            "image": "BAGS/2.jpeg",
+            "name": "Embroidered Leather Clutch",
+            "price": "1,499.00",
+            "inStock": true,
+            "sku": "UTT65219261",
+            "salientFeatures": {
+                "itemType": "Clutch",
+                "size": "Medium",
+                "dimension": "25x15 cm",
+                "color": "Leather",
+                "occasion": "Evening",
+                "soldBy": "Elegant Accessories"
+            },
+            "details": "Elegant leather clutch featuring detailed embroidery. Ideal for evening events or special occasions.",
+            "specialty": "Detailed embroidery on leather.",
+            "howToCare": "Wipe with a damp cloth, store in a dust bag."
+        },
+        {
+            "id": 13,
+            "type": "Bags",
+            "image": "BAGS/3.jpeg",
+            "name": "Hand-Dyed Canvas Backpack",
+            "price": "1,299.00",
+            "inStock": true,
+            "sku": "UTT65219262",
+            "salientFeatures": {
+                "itemType": "Backpack",
+                "size": "Medium",
+                "dimension": "30x40 cm",
+                "color": "Canvas",
+                "occasion": "Daily/Travel",
+                "soldBy": "Trendy Bags"
+            },
+            "details": "Stylish and practical canvas backpack, hand-dyed for a unique look. Perfect for daily use or travel.",
+            "specialty": "Hand-dyed canvas for a unique appearance.",
+            "howToCare": "Spot clean with mild detergent."
+        },
+        {
+            "id": 14,
+            "type": "Bags",
+            "image": "BAGS/4.jpeg",
+            "name": "Block Printed Sling Bag",
+            "price": "799.00",
+            "inStock": true,
+            "sku": "UTT65219263",
+            "salientFeatures": {
+                "itemType": "Sling Bag",
+                "size": "Small",
+                "dimension": "20x15 cm",
+                "color": "Block Print",
+                "occasion": "Casual",
+                "soldBy": "Stylish Bags"
+            },
+            "details": "Compact and trendy sling bag featuring vibrant block prints. Great for a casual day out or as an accessory to enhance any outfit.",
+            "specialty": "Vibrant block prints on a small, trendy bag.",
+            "howToCare": "Spot clean with a damp cloth."
+        },
+        {
+            "id": 15,
+            "type": "Bags",
+            "image": "BAGS/5.jpeg",
+            "name": "Handcrafted Beaded Purse",
+            "price": "1,099.00",
+            "inStock": true,
+            "sku": "UTT65219264",
+            "salientFeatures": {
+                "itemType": "Purse",
+                "size": "Small",
+                "dimension": "15x10 cm",
+                "color": "Beaded",
+                "occasion": "Evening",
+                "soldBy": "Glamour Accessories"
+            },
+            "details": "A charming beaded purse handcrafted with intricate beadwork. Adds a touch of glamour and elegance to any outfit.",
+            "specialty": "Intricate beadwork for a glamorous touch.",
+            "howToCare": "Handle with care, spot clean if necessary."
+        },
+        {
+            "id": 16,
+            "type": "Footwear",
+            "image": "Footware/1.jpeg",
+            "name": "Handcrafted Leather Sandals",
+            "price": "1,299.00",
+            "inStock": true,
+            "sku": "UTT65219265",
+            "salientFeatures": {
+                "itemType": "Sandals",
+                "size": "6-11",
+                "dimension": "N/A",
+                "color": "Leather",
+                "occasion": "Casual",
+                "soldBy": "Comfort Footwear"
+            },
+            "details": "Elegant leather sandals meticulously handcrafted for comfort and style. Ideal for casual wear or summer outings.",
+            "specialty": "Handcrafted leather for comfort and style.",
+            "howToCare": "Clean with a damp cloth, condition regularly."
+        },
+        {
+            "id": 17,
+            "type": "Footwear",
+            "image": "Footware/2.jpg",
+            "name": "Embroidered Jutti",
+            "price": "1,799.00",
+            "inStock": true,
+            "sku": "UTT65219266",
+            "salientFeatures": {
+                "itemType": "Jutti",
+                "size": "6-10",
+                "dimension": "N/A",
+                "color": "Embroidered",
+                "occasion": "Festive",
+                "soldBy": "Traditional Footwear"
+            },
+            "details": "Traditional jutti with intricate embroidery, offering a blend of comfort and cultural charm. Perfect for festive occasions.",
+            "specialty": "Intricate embroidery on traditional jutti.",
+            "howToCare": "Avoid water, clean with a dry cloth."
+        },
+        {
+            "id": 18,
+            "type": "Footwear",
+            "image": "Footware/3.jpeg",
+            "name": "Hand-Dyed Canvas Sneakers",
+            "price": "1,199.00",
+            "inStock": true,
+            "sku": "UTT65219267",
+            "salientFeatures": {
+                "itemType": "Sneakers",
+                "size": "6-11",
+                "dimension": "N/A",
+                "color": "Hand-Dyed",
+                "occasion": "Casual",
+                "soldBy": "Trendy Footwear"
+            },
+            "details": "Unique hand-dyed canvas sneakers providing a stylish and comfortable option for everyday wear.",
+            "specialty": "Hand-dyed for unique appearance.",
+            "howToCare": "Machine wash cold, air dry."
+        },
+        {
+            "id": 19,
+            "type": "Footwear",
+            "image": "Footware/4.jpeg",
+            "name": "Block Printed Flats",
+            "price": "899.00",
+            "inStock": true,
+            "sku": "UTT65219268",
+            "salientFeatures": {
+                "itemType": "Flats",
+                "size": "6-10",
+                "dimension": "N/A",
+                "color": "Block Print",
+                "occasion": "Casual",
+                "soldBy": "Stylish Footwear"
+            },
+            "details": "Charming flats with vibrant block prints, handcrafted for a fashionable and comfortable experience.",
+            "specialty": "Handcrafted with block prints.",
+            "howToCare": "Spot clean with a damp cloth."
+        },
+        {
+            "id": 20,
+            "type": "Footwear",
+            "image": "Footware/5.jpeg",
+            "name": "Handwoven Espadrilles",
+            "price": "1,349.00",
+            "inStock": true,
+            "sku": "UTT65219269",
+            "salientFeatures": {
+                "itemType": "Espadrilles",
+                "size": "6-11",
+                "dimension": "N/A",
+                "color": "Handwoven",
+                "occasion": "Summer",
+                "soldBy": "Comfort Footwear"
+            },
+            "details": "Stylish espadrilles made from handwoven materials, combining tradition and comfort for a perfect summer look.",
+            "specialty": "Handwoven materials for comfort.",
+            "howToCare": "Clean with a dry brush, spot clean if necessary."
+        },
+        {
+            "id": 21,
+            "type": "Decor",
+            "image": "Homedecor/1.jpeg",
+            "name": "Handcrafted Ceramic Tea Cups",
+            "price": "599.00",
+            "inStock": true,
+            "sku": "UTT65219270",
+            "salientFeatures": {
+                "itemType": "Tea Cups",
+                "size": "Standard",
+                "dimension": "250 ml",
+                "color": "Ceramic",
+                "occasion": "Tea Time",
+                "soldBy": "Elegant Decor"
+            },
+            "details": "Elegant ceramic tea cups with intricate hand-painted designs. Perfect for a refined tea experience or as a beautiful gift.",
+            "specialty": "Hand-painted ceramic tea cups.",
+            "howToCare": "Hand wash only, avoid abrasive scrubbers."
+        },
+        {
+            "id": 22,
+            "type": "Decor",
+            "image": "Homedecor/2.jpeg",
+            "name": "Embroidered Table Lamp",
+            "price": "1,299.00",
+            "inStock": true,
+            "sku": "UTT65219271",
+            "salientFeatures": {
+                "itemType": "Table Lamp",
+                "size": "Medium",
+                "dimension": "30x50 cm",
+                "color": "Embroidered",
+                "occasion": "Home Decor",
+                "soldBy": "Home Elegance"
+            },
+            "details": "Stylish table lamp featuring elegant embroidery on the lampshade. Adds a touch of sophistication to any room.",
+            "specialty": "Elegant embroidery on lampshade.",
+            "howToCare": "Dust regularly, clean with a dry cloth."
+        },
+        {
+            "id": 23,
+            "type": "Decor",
+            "image": "Homedecor/3.jpeg",
+            "name": "Handwoven Jute Rug",
+            "price": "1,799.00",
+            "inStock": true,
+            "sku": "UTT65219272",
+            "salientFeatures": {
+                "itemType": "Rug",
+                "size": "Large",
+                "dimension": "150x90 cm",
+                "color": "Jute",
+                "occasion": "Home Decor",
+                "soldBy": "Eco Decor"
+            },
+            "details": "Spacious handwoven jute rug that adds a natural and rustic charm to your living space.",
+            "specialty": "Handwoven jute for natural charm.",
+            "howToCare": "Vacuum regularly, spot clean with mild detergent."
+        },
+        {
+            "id": 24,
+            "type": "Decor",
+            "image": "Homedecor/4.jpeg",
+            "name": "Block Printed Wall Hanging",
+            "price": "899.00",
+            "inStock": true,
+            "sku": "UTT65219273",
+            "salientFeatures": {
+                "itemType": "Wall Hanging",
+                "size": "Medium",
+                "dimension": "100x70 cm",
+                "color": "Block Print",
+                "occasion": "Home Decor",
+                "soldBy": "Artisan Decor"
+            },
+            "details": "Beautiful block-printed wall hanging that adds artistic flair to any room. Handcrafted for a unique look.",
+            "specialty": "Handcrafted block print wall hanging.",
+            "howToCare": "Dust regularly, spot clean if needed."
+        },
+        {
+            "id": 25,
+            "type": "Decor",
+            "image": "Homedecor/5.jpg",
+            "name": "Handcrafted Wooden Vase",
+            "price": "799.00",
+            "inStock": true,
+            "sku": "UTT65219274",
+            "salientFeatures": {
+                "itemType": "Vase",
+                "size": "Small",
+                "dimension": "20x10 cm",
+                "color": "Wooden",
+                "occasion": "Home Decor",
+                "soldBy": "Artisan Crafts"
+            },
+            "details": "Elegant wooden vase handcrafted to add a touch of rustic charm to your decor. Perfect for displaying flowers or as a decorative piece.",
+            "specialty": "Handcrafted wooden for rustic charm.",
+            "howToCare": "Wipe with a dry cloth, avoid moisture."
+        }
+    ,
+    
+    
+        {
+            "id": 26,
+            "type": "Furnshing",
+            "image": "furnising/1.webp",
+            "name": "Handcrafted Wooden Mask",
+            "price": "1,099.00",
+            "inStock": true,
+            "sku": "HWK123456",
+            "salientFeatures": {
+                "itemType": "Wall Decor",
+                "size": "Medium",
+                "dimension": "30x20 cm",
+                "color": "Wooden",
+                "occasion": "Home Decor",
+                "soldBy": "Artisan Crafts"
+            },
+            "details": "Intricately carved wooden mask, showcasing traditional craftsmanship. Adds a unique and artistic touch to your wall decor.",
+            "specialty": "Intricately carved, traditional craftsmanship.",
+            "howToCare": "Dust regularly, avoid direct sunlight."
+        },
+        {
+            "id": 27,
+            "type": "Furnshing",
+            "image": "furnising/2.jpg",
+            "name": "Embroidered Throw Pillow",
+            "price": "799.00",
+            "inStock": true,
+            "sku": "ETP987654",
+            "salientFeatures": {
+                "itemType": "Pillow",
+                "size": "Medium",
+                "dimension": "45x45 cm",
+                "color": "Various",
+                "occasion": "Living Room",
+                "soldBy": "Artisan Crafts"
+            },
+            "details": "Luxurious throw pillow with detailed embroidery. Perfect for adding comfort and style to your living space or bedroom.",
+            "specialty": "Luxurious embroidery, versatile design.",
+            "howToCare": "Spot clean with a mild detergent, air dry."
+        },
+        {
+            "id": 28,
+            "type": "Furnshing",
+            "image": "furnising/3.jpg",
+            "name": "Handwoven Area Rug",
+            "price": "2,499.00",
+            "inStock": true,
+            "sku": "HAR112233",
+            "salientFeatures": {
+                "itemType": "Rug",
+                "size": "Large",
+                "dimension": "200x150 cm",
+                "color": "Multicolor",
+                "occasion": "Living Room",
+                "soldBy": "Artisan Crafts"
+            },
+            "details": "Beautifully handwoven area rug with intricate patterns. Adds warmth and elegance to any room in your home.",
+            "specialty": "Handwoven, intricate patterns.",
+            "howToCare": "Vacuum regularly, spot clean spills immediately."
+        },
+        {
+            "id": 29,
+            "type": "Furnshing",
+            "image": "furnising/4.jpg",
+            "name": "Handcrafted Wooden Coffee Table",
+            "price": "3,499.00",
+            "inStock": true,
+            "sku": "HWCT445566",
+            "salientFeatures": {
+                "itemType": "Table",
+                "size": "Large",
+                "dimension": "120x60 cm",
+                "color": "Wooden",
+                "occasion": "Living Room",
+                "soldBy": "Artisan Crafts"
+            },
+            "details": "Elegant wooden coffee table with handcrafted details. Perfect for adding a touch of rustic charm to your living room.",
+            "specialty": "Handcrafted details, rustic charm.",
+            "howToCare": "Wipe with a damp cloth, polish occasionally."
+        },
+        {
+            "id": 30,
+            "type": "Furnshing",
+            "image": "furnising/5.jpeg",
+            "name": "Handmade Elephant Toy",
+            "price": "599.00",
+            "inStock": true,
+            "sku": "HET667788",
+            "salientFeatures": {
+                "itemType": "Toy",
+                "size": "Small",
+                "dimension": "20x15 cm",
+                "color": "Multicolor",
+                "occasion": "Children",
+                "soldBy": "Artisan Crafts"
+            },
+            "details": "Charming handmade elephant toy crafted from soft, high-quality materials. A delightful addition to a child's room or as a decorative piece.",
+            "specialty": "Handmade, soft materials.",
+            "howToCare": "Spot clean with a mild detergent, air dry."
+        },
+        {
+            "id": 31,
+            "type": "Furniture",
+            "image": "FURNITURE/1.jpeg",
+            "name": "Handcrafted Wooden Dining Table",
+            "price": "4,999.00",
+            "inStock": true,
+            "sku": "HWDT223344",
+            "salientFeatures": {
+                "itemType": "Table",
+                "size": "Large",
+                "dimension": "180x90 cm",
+                "color": "Wooden",
+                "occasion": "Dining",
+                "soldBy": "Artisan Crafts"
+            },
+            "details": "Elegant dining table crafted from premium wood with intricate details. Ideal for family gatherings and enhancing your dining space.",
+            "specialty": "Premium wood, intricate details.",
+            "howToCare": "Wipe with a dry cloth, avoid moisture."
+        },
+        {
+            "id": 32,
+            "type": "Furniture",
+            "image": "FURNITURE/2.jpeg",
+            "name": "Rustic Wooden Sideboard",
+            "price": "3,299.00",
+            "inStock": true,
+            "sku": "RWSD556677",
+            "salientFeatures": {
+                "itemType": "Sideboard",
+                "size": "Medium",
+                "dimension": "120x40 cm",
+                "color": "Wooden",
+                "occasion": "Storage",
+                "soldBy": "Artisan Crafts"
+            },
+            "details": "Beautifully rustic sideboard with handcrafted elements. Offers ample storage while adding a touch of charm to any room.",
+            "specialty": "Rustic design, ample storage.",
+            "howToCare": "Dust regularly, polish occasionally."
+        },
+        {
+            "id": 33,
+            "type": "Furniture",
+            "image": "FURNITURE/3.jpeg",
+            "name": "Handcrafted Wooden Bed Frame",
+            "price": "5,499.00",
+            "inStock": true,
+            "sku": "HWBF889900",
+            "salientFeatures": {
+                "itemType": "Bed Frame",
+                "size": "Queen",
+                "dimension": "160x200 cm",
+                "color": "Wooden",
+                "occasion": "Bedroom",
+                "soldBy": "Artisan Crafts"
+            },
+            "details": "Sturdy and stylish bed frame made from high-quality wood. Designed to provide both durability and elegance to your bedroom.",
+            "specialty": "High-quality wood, durable design.",
+            "howToCare": "Wipe with a dry cloth, avoid excess moisture."
+        },
+        {
+            "id": 34,
+            "type": "Furniture",
+            "image": "FURNITURE/4.jpeg",
+            "name": "Handmade Wooden Bookshelf",
+            "price": "2,199.00",
+            "inStock": true,
+            "sku": "HWBS334455",
+            "salientFeatures": {
+                "itemType": "Bookshelf",
+                "size": "Medium",
+                "dimension": "80x150 cm",
+                "color": "Wooden",
+                "occasion": "Study",
+                "soldBy": "Artisan Crafts"
+            },
+            "details": "Charming wooden bookshelf with handcrafted details. Perfect for displaying books and decorative items in your study or living area.",
+            "specialty": "Handcrafted, charming design.",
+            "howToCare": "Dust regularly, avoid direct sunlight."
+        },
+        {
+            "id": 35,
+            "type": "Furniture",
+            "image": "FURNITURE/5.jpeg",
+            "name": "Vintage Wooden Rocking Chair",
+            "price": "1,799.00",
+            "inStock": true,
+            "sku": "VWR223344",
+            "salientFeatures": {
+                "itemType": "Rocking Chair",
+                "size": "Medium",
+                "dimension": "80x70 cm",
+                "color": "Wooden",
+                "occasion": "Relaxation",
+                "soldBy": "Artisan Crafts"
+            },
+            "details": "Classic wooden rocking chair with a vintage design. Provides both comfort and style, ideal for relaxing and unwinding.",
+            "specialty": "Vintage design, comfortable.",
+            "howToCare": "Wipe with a dry cloth, polish occasionally."
+        },
+        {
+            "id": 36,
+            "type": "Kitchen",
+            "image": "KITCHEN/1.jpeg",
+            "name": "Handcrafted Wooden Serving Tray",
+            "price": "899.00",
+            "inStock": true,
+            "sku": "HWST556677",
+            "salientFeatures": {
+                "itemType": "Tray",
+                "size": "Medium",
+                "dimension": "40x30 cm",
+                "color": "Wooden",
+                "occasion": "Serving",
+                "soldBy": "Artisan Crafts"
+            },
+            "details": "Elegant wooden serving tray with intricate designs, perfect for serving drinks and snacks in style.",
+            "specialty": "Elegant design, handcrafted.",
+            "howToCare": "Wipe with a damp cloth, avoid soaking."
+        },
+        {
+            "id": 37,
+            "type": "Kitchen",
+            "image": "KITCHEN/2.jpeg",
+            "name": "Handmade Glass Decanter",
+            "price": "1,299.00",
+            "inStock": true,
+            "sku": "HGDC334455",
+            "salientFeatures": {
+                "itemType": "Decanter",
+                "size": "Medium",
+                "dimension": "25x15 cm",
+                "color": "Clear",
+                "occasion": "Serving",
+                "soldBy": "Artisan Crafts"
+            },
+            "details": "Beautifully crafted glass decanter with unique hand-blown patterns. Ideal for serving wine or spirits with elegance.",
+            "specialty": "Hand-blown patterns, elegant design.",
+            "howToCare": "Hand wash only, avoid abrasive materials."
+        },
+        {
+            "id": 38,
+            "type": "Kitchen",
+            "image": "KITCHEN/3.jpeg",
+            "name": "Wooden Salad Servers Set",
+            "price": "499.00",
+            "inStock": true,
+            "sku": "WSS556677",
+            "salientFeatures": {
+                "itemType": "Salad Servers",
+                "size": "Standard",
+                "dimension": "30 cm",
+                "color": "Wooden",
+                "occasion": "Serving",
+                "soldBy": "Artisan Crafts"
+            },
+            "details": "Set of handcrafted wooden salad servers, perfect for tossing and serving salads with a touch of natural charm.",
+            "specialty": "Handcrafted, natural charm.",
+            "howToCare": "Hand wash with mild soap, dry immediately."
+        },
+        {
+            "id": 39,
+            "type": "Kitchen",
+            "image": "KITCHEN/4.jpeg",
+            "name": "Handcrafted Wooden Spice Rack",
+            "price": "1,099.00",
+            "inStock": true,
+            "sku": "HWSR778899",
+            "salientFeatures": {
+                "itemType": "Spice Rack",
+                "size": "Medium",
+                "dimension": "30x20 cm",
+                "color": "Wooden",
+                "occasion": "Kitchen Storage",
+                "soldBy": "Artisan Crafts"
+            },
+            "details": "Stylish wooden spice rack with multiple compartments, handcrafted to organize and display your spices attractively.",
+            "specialty": "Handcrafted, stylish compartments.",
+            "howToCare": "Wipe with a damp cloth, dry thoroughly."
+        },
+        {
+            "id": 40,
+            "type": "Kitchen",
+            "image": "KITCHEN/5.jpeg",
+            "name": "Artisan Glass Bowl Set",
+            "price": "799.00",
+            "inStock": true,
+            "sku": "AGBS990011",
+            "salientFeatures": {
+                "itemType": "Bowl Set",
+                "size": "Various",
+                "dimension": "Set of 3",
+                "color": "Clear",
+                "occasion": "Serving",
+                "soldBy": "Artisan Crafts"
+            },
+            "details": "Set of artisan glass bowls with handcrafted details. Perfect for serving soups, salads, or desserts with a touch of sophistication.",
+            "specialty": "Handcrafted details, versatile use.",
+            "howToCare": "Hand wash only, avoid sudden temperature changes."
+        }
+    
+    
+]
