@@ -42,7 +42,7 @@ export const LoginPage = () => {
 
           <form onSubmit={handleLogin}>
 
-            <h1>Pavithran</h1>
+            <h1>Pavi</h1>
             <div className="form-group">
               <label className="text-white font-weight-bold">Email</label>
               <input
